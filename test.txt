@@ -1,5 +1,6 @@
 This is a new file.
 
 Red
+Orange
 Yellow
 Blue
